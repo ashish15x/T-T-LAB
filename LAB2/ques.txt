@@ -1,0 +1,4 @@
+1. get largest no. from a list
+2. to concatinate two dictionary to create a new 
+3. to find repeated item in a tuple
+4. to accept a sentence from a user and encode it take the ascii value and encoded value =10*a+2
